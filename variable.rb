@@ -1,2 +1,5 @@
- # Define a local variable called 'greeting',
- # give it the value of the string "Hello World"
+def greeting(x)
+  x = "Hello World"
+end
+
+puts greeting
